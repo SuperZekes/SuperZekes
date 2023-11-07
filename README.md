@@ -11,7 +11,7 @@ My GitHub stats 📈
 
 A Minecraft mod that lets you pvp an <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">AI</a> to practice your pvp skills.
 
-My own <a href="https://modrinth.com/mod/create">Create Mod</a> modpack with lots of other mods that go well with create.
+My own <a href="https://modrinth.com/mod/create">Create</a> modpack with lots of other mods that go well with create.
 
 # Projects that you should check out
 
