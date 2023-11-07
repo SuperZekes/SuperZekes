@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=E41616&random=false&width=435&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+small+creator;that+likes+making+awesome+things!;Have+a+wonderful+day+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=7000&color=C53131&random=false&width=435&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
+I am a small creator that likes making awesome things! Have a wonderful day 👋🏻
 
 My GitHub stats 📈
 
