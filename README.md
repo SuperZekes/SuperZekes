@@ -7,13 +7,11 @@ My GitHub stats 📈
 
 ![SuperZekes's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperZekes&theme=dark&show_icons=true)
 
-
 # Future projects that I want to work on
 
 A Minecraft mod that lets you pvp an <a href="https://en.wikipedia.org/wiki/Artificial_intelligence">AI</a> to practice your pvp skills.
 
 My own <a href="https://modrinth.com/mod/create">Create Mod</a> modpack with lots of other mods that go well with create.
-
 # Projects to check out
 
 https://github.com/CaffeineMC/sodium-fabric
