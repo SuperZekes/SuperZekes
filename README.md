@@ -1,3 +1,3 @@
-- Hello there :wave:
+- Hello there 👋
 - I am a small creator that likes making awesome things.
 - I hope to create and work on more things in the future 😀
