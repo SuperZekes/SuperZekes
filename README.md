@@ -14,7 +14,7 @@ A Minecraft mod that lets you pvp an <a href="https://en.wikipedia.org/wiki/Arti
 
 My own <a href="https://modrinth.com/mod/create">Create</a> modpack with lots of other mods that go well with create.
 
-# Projects that you should check out
+## Projects that you should check out
 
 https://github.com/CaffeineMC/sodium-fabric
 
