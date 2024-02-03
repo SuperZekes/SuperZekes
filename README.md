@@ -4,8 +4,6 @@ I am a creator that likes making awesome things! Have a wonderful day 👋🏻
 
 My GitHub stats 📈
 
-
-
 ![SuperZekes's Stats](https://github-readme-stats.vercel.app/api?username=SuperZekes&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![SuperZekes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperZekes&theme=dark&show_icons=true&hide_border=true&layout=compact)
