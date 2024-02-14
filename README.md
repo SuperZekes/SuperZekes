@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=100000&color=BB2118&random=false&width=435&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+<h1 align="center">
+  Welcome to my profile!
+  <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/togepi.gif" width="35" height="35" />
+</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=9999&color=F7291D&random=false&width=435&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
 
 I am a creator that likes making awesome things! Have a wonderful day 👋🏻
 
