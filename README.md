@@ -12,6 +12,7 @@ I'm new to programming, passionate about video games and constantly learning new
   <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" />
   <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" />
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
+  <img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 </p>
 
 ### 📈 GitHub Stats:
