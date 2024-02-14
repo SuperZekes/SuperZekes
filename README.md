@@ -10,6 +10,7 @@ I'm new to programming, passionate about video games and constantly learning new
   <img alt="VS Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
   <img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" />
   <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" />
+  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" />
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
 </p>
 
