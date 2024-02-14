@@ -17,4 +17,4 @@ I'm new to programming, passionate about video games and constantly learning new
 
 ### 📈 GitHub Stats:
 
-![SuperZekes's GitHub stats](https://github-readme-stats.vercel.app/api?username=superzekes&show_icons=true&theme=dark)
+![SuperZekes's Stats](https://github-readme-stats.vercel.app/api?username=SuperZekes&theme=dark&show_icons=true&hide_border=true&count_private=true)
