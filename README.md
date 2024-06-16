@@ -18,3 +18,7 @@ I'm new to programming, passionate about video games and constantly learning new
 ### 📈 GitHub Stats:
 
 ![SuperZekes' GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperZekes&theme=shadow_red&show_icons=true)
+
+### 📞 Contact me on Discord!
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/932278806381752411)](https://discord.com/users/932278806381752411)
