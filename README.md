@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile!
 
-I'm new to programming, passionate about video games and constantly learning new things.
+I'm a web developer, passionate about video games and constantly learning new things.
 
 ### 🛠️ Languages and Tools:
 
