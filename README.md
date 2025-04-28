@@ -17,8 +17,8 @@ I'm a web developer, passionate about video games and constantly learning new th
 
 ### 📈 GitHub Stats:
 
-![SuperZekes' GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperZekes&theme=shadow_red&show_icons=true)
+![SuperZekes' GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperZekes&theme=dark&show_icons=true)
 
 ### 📞 Contact me on Discord!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/932278806381752411)](https://discord.com/users/932278806381752411)
+![Discord Card](https://discord-cards.onrender.com/api/card/932278806381752411?about=&banner=&large_image=&small_image=&hex=7289DA)
